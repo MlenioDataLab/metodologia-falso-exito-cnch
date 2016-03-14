@@ -6,7 +6,7 @@ La Cruzada Nacional Contra el Hambre tiene fallas desde su inicio. Debido a la f
 
 La siguiente metodología explica como se hizo la investigación publicada en:
 
-* [Milenio DataLab](http://www.milenio.com/datalab/falso-exito-Cruzada-Nacional-Hambre_0_696530646.html)
+* [Milenio DataLab](http://www.milenio.com/datalab/falso-exito-Cruzada-Nacional-Hambre_0_696530646.html) Nota: desde que se publicó el título cambió por decisión editorial
 * [Connectas](http://connectas.org/el-falso-exito-de-la-cruzada-contra-el-hambre-en-mexico/)
 
 
