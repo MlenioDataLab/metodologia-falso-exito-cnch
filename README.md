@@ -1,5 +1,15 @@
 # Metodología
 
+## El (falso) éxito de la Cruzada Nacional contra el Hambre
+
+La Cruzada Nacional Contra el Hambre tiene fallas desde su inicio. Debido a la falta de una metodología para identificar a las personas en pobreza extrema con carencia alimentaria a la cual tiene por mandato beneficiar, en los estados que la concentran se cubre a menos del 40 por ciento, mientras que entidades con pocos pobres alimentarios llegan a tener una cobertura superior al 250 por ciento.
+
+La siguiente metodología explica como se hizo la investigación publicada en:
+
+* [Milenio DataLab](http://www.milenio.com/datalab/falso-exito-Cruzada-Nacional-Hambre_0_696530646.html)
+* [Connectas](http://connectas.org/el-falso-exito-de-la-cruzada-contra-el-hambre-en-mexico/)
+
+
 ## Obtención del padrón de beneficiarios
 
 La principal base de datos que utilizamos fue el padrón de beneficiarios de la Cruzada Nacional contra el Hambre, el cual está actualizado al segundo trimestre del 2015.
@@ -9,6 +19,8 @@ El padrón es público a a través de sitio de la Cruzada pero se encuentra sepa
 Afortunadamente las ligas de descarga en el servidor de SEDESOL están ordenadas mediante un identificador único que utiliza INEGI para cada localidad del país, lo cual permitió construir un programa que descarga los archivos y los unifica. La base de datos final arroja 4.5 millones de registros.
 
 Es importante destacar que en el proceso de descarga hubo algunas localidades que no pudimos unificar. Cada cierto periodo de tiempo INEGI modifica el catálogo de localidades para reflejar los cambios demográficos en México. En algunas ocasiones se crean identificadores cuando hay nuevos asentamientos y en otras se eliminan identificadores cuando localidades se quedan sin residentes. Esas localidades que no pudimos unificar corresponden a aproximadamente el 0.1% del total del padrón.
+
+El proceso detallado de como descargar el padrón y los scripts necesarios para ello se pueden consultar [aquí](https://github.com/MlenioDataLab/metodologia-falso-exito-cnch/tree/master/scripts/descarga_padron_beneficiarios_sedesol).
 
 ## Comparativo entre el padrón de beneficiarios y estimaciones de CONEVAL
 
