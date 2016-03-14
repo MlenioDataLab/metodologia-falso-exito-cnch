@@ -18,19 +18,20 @@ def descargar_localidades(fichero, subdirectorio):
             directorio_salida = subdirectorio + "/" + id_localidad[:2]
             fichero_salida = id_localidad + ".csv"
 
-            # Imprimimos cuantas localidades quedan por procesar
-            print("{} : {}".format(numero_localidades, directorio_salida + "/" + fichero_salida))
             numero_localidades -= 1
+
+            # if numero_localidades % 1000 == 0:
+                # Imprimimos cuantas localidades quedan por procesar para ver el progreso, cada 1000 localidades
+                # print("{} : {}".format(numero_localidades, directorio_salida + "/" + fichero_salida))
 
             if not os.path.exists(directorio_salida):
                 os.makedirs(directorio_salida)
 
             if not os.path.isfile(directorio_salida + "/" + fichero_salida):
+                print(fichero_salida)
                 urllib.urlretrieve(url, directorio_salida + "/" + fichero_salida)
-            else:
-                print("Ya existe " + directorio_salida + "/" + fichero_salida)
+            #else:
+                # print("Ya existe " + directorio_salida + "/" + fichero_salida)
 
 
 descargar_localidades("ids_localidades.csv", "localidades")
-
-
