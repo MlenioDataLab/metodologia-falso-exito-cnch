@@ -21,7 +21,7 @@ def descargar_localidades(fichero, subdirectorio):
             numero_localidades -= 1
 
             if numero_localidades % 1000 == 0:
-                Imprimimos cuantas localidades quedan por procesar para ver el progreso, cada 1000 localidades
+                # Imprimimos cuantas localidades quedan por procesar para ver el progreso, cada 1000 localidades
                 print("{} : {}".format(numero_localidades, directorio_salida + "/" + fichero_salida))
 
             if not os.path.exists(directorio_salida):
