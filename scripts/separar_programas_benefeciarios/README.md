@@ -1,6 +1,6 @@
 # Separar programas de beneficiarios
 
-La información del padrón contiene una columna en la que indica que programas recibe cada beneficiario. Sin embargo en este formato es muy dificil de procesar.
+La información del padrón contiene una columna en la que de manera agregada indica que programas recibe cada beneficiario, una cadena de texto separada por comas con cada uno de los programas. Este formato es muy dificil de procesar.
 
 Se hace necesario separar los programas, cada uno en una columna, para poder analizar mejor la información.
 
