@@ -1,0 +1,60 @@
+"clave","dependencia","nombre_corto","nombre","modalidad_vertiente"
+"S232","SAGARPA","APIOC","Prevención y Manejo de Riesgos","Apoyo al Ingreso Objetivo y a la Comercialización"
+"S232","SAGARPA","CADENA","Prevención y Manejo de Riesgos","Atención a Desastres Naturales en el Sector Agropecuario y Pesquero"
+"S258","SAGARPA","TRASPA","Programa Integral de Desarrollo Rural","Agricultura Familiar Periurbana y de Traspatio"
+"S258","SAGARPA","PESA","Proyectos estratégicos",
+"S259","SAGARPA","AGROIN","Fomento a la Agricultura","Agroincentivos"
+"S259","SAGARPA","PROAGRO","Fomento a la Agricultura","PROAGRO Productivo"
+"S259","SAGARPA","TECRI","Fomento a la Agricultura","Tecnificación del Riego"
+"S259","SAGARPA","BIOSU","Fomento a la Agricultura","Bioenergía y Sustentabilidad"
+"S259","SAGARPA","PROCURA","Fomento a la Agricultura","Producción Intensiva y Cubiertas Agrícolas"
+"S259","SAGARPA","RECPRO","Fomento a la Agricultura","Reconversión y Productividad"
+"S261","SAGARPA","ICAPEA","Fomento a la Productividad Pesquera y Acuícola","Impulso a la Capitalización Pesquera y Acuícola"
+"S261","SAGARPA","PROPE","Fomento a la Productividad Pesquera y Acuícola","Propesca"
+"S260","SAGARPA","PROGAN","Fomento Ganadero","Progan Productivo"
+"S257","SAGARPA","DEPSUR","Productividad y Competitividad Agroalimentaria","Desarrollo Productivo Sur Sureste"
+"S257","SAGARPA","PAGROAL","Productividad y Competitividad Agroalimentaria","Productividad Agroalimentaria"
+"S230","SAGARPA","APINEI","Apoyo a la Inversión en Equipamiento e Infraestructura","Minería Social"
+"S258","SAGARPA","COUSSA","Programa Integral de Desarrollo Rural","Conservación y uso sustentables de suelo y agua"
+"S233","SAGARPA","DESCAPITER","Desarrollo de Capacidades, Innovación Tecnológica y Extensionismo Rural",
+"S258","SAGARPA","CEIP","Programa Integral de Desarrollo Rural","Extensión e Innovación Productiva (CEIP)"
+"S261","SAGARPA","DESAC","Fomento a la Productividad Pesquera y Acuícola","Desarrollo Estratégico de Acuacultura"
+"S260","SAGARPA","INER","Fomento Ganadero","Infraestructura y Equipo de Repoblamiento"
+"S260","SAGARPA","MAPOPEF","Fomento Ganadero","Manejo Postproducción Pecuaria"
+"S259","SAGARPA","PIMAF","Fomento a la Agricultura","Incentivos para Productores de Maíz y Frijol"
+"S259","SAGARPA","PROCAFE","Fomento a la Agricultura","PROCAFE e Impulso Productivo al Café"
+"U005","SALUD","SEPO","Seguro Popular",
+"S071","SCT","PETSCT","Empleo Temporal",
+"S020","SE","FPYME","Fondo Nacional Emprendedor",
+"S017","SE","FOMES","Programa de Fomento a la Economía Social",
+"S016","SE","FOMMUR","Fondo de Microfinanciamiento a Mujeres Rurales",
+"S021","SE","PRONAFIM","Programa Nacional de Financiamiento al Microempresario",
+"S203","SEDATU","JERFT","Joven Emprendedor Rural y Fondo de Tierras",
+"S058","SEDATU","PVD","Programa de Vivienda Digna",
+"U009","SEDESOL","COMEDORES","Programa de Comedores Comunitarios",
+"S061","SEDESOL","3X1","3 x 1 para Migrantes",
+"S057","SEDESOL","FONART","Fondo Nacional de Fomento a las Artesanías",
+"S072","SEDESOL","PROSPERA","Desarrollo Humano Oportunidades",
+"S065","SEDESOL","PAJA","Programa de Atención a Jornaleros Agrícolas",
+"S118","SEDESOL","PAL","Programa de Apoyo Alimentario",
+"S176","SEDESOL","PAM","Pensión para Adultos Mayores",
+"S052","SEDESOL","PASL","Programa de Abasto Social de Leche a cargo de Liconsa, S.A. de C.V.",
+"S216","SEDESOL","PDZP","Programa para el Desarrollo de Zonas Prioritarias",
+"S174","SEDESOL","PEI","Programa de estancias infantiles para apoyar a madres trabajadoras",
+"S071","SEDESOL","PET","Programa de Empleo Temporal",
+"S054","SEDESOL","POP","Programa de Opciones Productivas",
+"S117","SEDESOL","PVR","Programa de Vivienda Rural",
+"S048","SEDESOL","HAB","Hábitat",
+"S046","SEMARNAT","PROCODES","Conservación para el Desarrollo Sostenible",
+"U036","SEMARNAT","PRONAFOR1","ProÁrbol - Desarrollo Forestal",
+"S219","SEMARNAT","PRONAFOR2","ProÁrbol - Pago por Servicios Ambientales",
+"U020","SEMARNAT","FOCAS","Fomento para la Conservación y el Aprovechamiento Sustentable de la Vida Silvestre",
+"S071","SEMARNAT","PETSEM","Empleo Temporal",
+"E064","SEP","INEA","Atención a la Demanda de Educación para Adultos (INEA)","Alfabetizar a Personas de 15 años y mas"
+"E066","SEP","CONAFE","Prestación de Servicios de Educación Inicial y Básica Comunitaria","Proporcionar servicios de educación básica comunitaria"
+"S108","SEP","PROMAJOVEN","Becas de apoyo a la Educación Básica de Madres Jóvenes y Jóvenes Embarazadas",
+"S001","SHCP","AGROASEMEX","Programa de Subsidio a la Prima del Seguro Agropecuario",
+"S178","SHCP","PAEI","Albergues Escolares Indígenas",
+"S181","SHCP","POPMI","Organización Productiva para Mujeres Indígenas","Proyectos"
+"S043","STPS","PAE","Apoyo al Empleo","Bécate"
+"E010","STPS","SERVINLAB","Coordinación de Acciones de Vinculación entre los Factores de la Producción para Apoyar el Empleo","Bolsa de Trabajo"
